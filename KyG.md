@@ -1,4 +1,4 @@
-# Project Title : dice and snake & ladder
+# Project Title : DICE AND SNAKE & LADDER
 ### Batch NO :11
 ### Mentor Name :Nandhakumar
 ### Github Link : https://github.com/vishnukum109/fis
